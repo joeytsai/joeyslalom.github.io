@@ -1,0 +1,13 @@
+Technically speaking the Pixel is the best product on the market for staying on the latest version of Android. For me this is a hard requirement so I've never seriously considered anything besides a Nexus.
+
+The ChromeOS dual partition system is a great solution that pretty much removes all friction to an update. I predict Pixel will have the highest update uptake rate of any smartphone, basically following the steps of the evergreen browsers. You have to get users out of the equation.
+
+Just as important, Google has established the monthly security update cadence for Nexus phones for well over a year now. In a way, Stagefright was a good kick in the ass for the Android update situation. (Especially because, surprisingly, Stagefright has not been an issue in the wild.) Lately I've even noticed the partner vendors announcing the monthly security update before Google does - which I think is a good sign. Google has a big responsibility for Android's update situation, but the Android ecosystem needs a healthy team.
+
+If you're interested in the Android update situation, Adrian Ludwig just gave a talk at Next, the Google cloud conference about it (he even references the Wikileaks CIA breach): https://www.youtube.com/watch?v=Zm6ziX5pqt8
+
+He talks about the task starting with only 5 OEMs to keep their flagships updated. And you start to see the insane complexity of running the update train: this meant 29 devices. Multiply by the 351 carrier partners, which goes to 5000+ builds and variants. That all need to be tested by all the parties.
+
+Apple deserves a lot of credit for setting a high bar for keeping their products updated. Of course there is plenty of room to improve on Android, but Google is effectively responding - for a huge, diverse, ecosystem on top of an open source stack.
+
+https://www.reddit.com/r/Android/comments/5ylza8/googles_unique_update_process_is_one_of_the_best/desd3b5/
